@@ -31,7 +31,7 @@ fiction.
 
 I don't generally keep much of a social media presence, but I can be found on:
  - [Linkedin](https://www.linkedin.com/in/isaac-list/)
- - Github: both my [Personal]() and [Academic]() accounts
+ - Github: both my [Personal](https://github.com/Isaac-Newt/) and [Academic](https://github.com/isaac-list/) accounts
 
 However, the best way to contact me is by email at one of the following addresses:
  - [Personal Contact](mailto:isaac.newt.list@icloud.com)
