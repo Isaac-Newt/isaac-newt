@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ### About Me
 
-My name is Isaac, and I am an undergraduate Computer Science student studying at Luther College. This is my non-school Github page,
-where I keep my projects unrelated to course activities or academic projects.
+My name is Isaac, and I am an undergraduate Computer Science student studying at [Luther College](https://www.luther.edu).
+This is my non-school Github page, where I keep my projects unrelated to course activities or academic projects.
 
 I am interested in working on projects which are interactive, communicate information in novel ways, and provide unique challenges
 to me as a programmer. I also hope to eventually contribute to free and open-source projects which I rely on each day to complete
